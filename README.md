@@ -12,10 +12,14 @@ with a blurred, cover-based gradient background.
 
 ## Install
 Via Spicetify Marketplace (Extensions tab), or manually:
+
 1. Put `my-lyrics.js` into your Spicetify `Extensions` folder
 2. Run:
-   spicetify config extensions my-lyrics.js
-   spicetify apply
+
+```
+spicetify config extensions my-lyrics.js
+spicetify apply
+```
 
 ## Notes
 Lyrics come from Spotify's own lyrics service, with LRCLIB as a fallback.
