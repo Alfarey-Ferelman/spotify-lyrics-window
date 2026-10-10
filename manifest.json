@@ -1,6 +1,7 @@
 {
   "name": "My Lyrics",
   "description": "Synced lyrics window inside Spotify with a cover-based gradient background.",
+  "preview": "preview.png",
   "main": "my-lyrics.js",
   "readme": "README.md"
 }
